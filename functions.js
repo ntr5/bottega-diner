@@ -1,5 +1,5 @@
 alert(`
-                    Bottega Diner Menu
+                Bottega Diner Menu
                        
     Main Dish: 
     Chicken ---------------------------------- $5.99
